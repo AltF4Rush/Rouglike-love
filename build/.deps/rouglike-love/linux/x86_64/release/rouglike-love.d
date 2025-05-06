@@ -1,6 +1,6 @@
 {
     files = {
-        "build/.objs/nest/linux/x86_64/release/src/main.c.o"
+        "build/.objs/rouglike-love/linux/x86_64/release/src/main.c.o"
     },
     values = {
         "/usr/bin/clang++",

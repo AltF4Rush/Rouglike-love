@@ -1,0 +1,18 @@
+GDD LOCAL
+	Player will have to choose a charter or smt out of some charter then player will be summoned to a pro-gen dungon with a bunch of rooms and stuff then a tutor npc will guide player (what to do stuff) and then player will enter the dungone and kill some enemys do some quest and get stuff and move forwerd die all that kind of stuff 
+
+	Tech using - raylib, c
+
+RODEMAP -->
+	Player spwaned, choose one charter
+						kaido(semi-automatic gun, 2 med-kit, some ammo, spcial power is superCharge -> {More damage, But takes a lot of damage as well}) has a cool bird {ARI},  
+
+						Kath(shotgun, 2 med-kit, some ammo, spcial power is more power sprint -> {fucking destroy everything, but slows down after that}),
+
+						RomRom(Cool automatic gun, 2 med-kit, some ammo, spcial power is run -> {runs and shoots faster, but loses a lot of engry})has a cool dog {britney},
+
+						Doc(has a double gun, 5 med-kit, some ammo, spcial power is circle heal -> {will heal all the player near the circlr no disadvantage}),
+
+						Dreamer(cool sniper, 3 med-kit, some ammo (higher then others), super power is very high damage, no disadvantage),
+
+						Cherry(Has a semi automatic low damage but fast shooting rifle, 2 med-kit, some ammo, spcial power is boost to gun (more knockBack, and more fast shooting, stuff))

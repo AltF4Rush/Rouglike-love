@@ -2,7 +2,7 @@ add_rules("mode.debug", "mode.release")
 
 add_includedirs("include")
 add_linkdirs("lib")
-target("nest")
+target("rouglike-love")
     set_kind("binary")
     add_files("src/*.c")
     add_links("raylib")

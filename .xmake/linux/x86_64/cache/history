@@ -8,6 +8,8 @@
         "xmake ",
         "xmake run",
         "xmake ",
+        "xmake run",
+        "xmake ",
         "xmake run"
     }
 }

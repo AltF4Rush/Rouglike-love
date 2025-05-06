@@ -8,7 +8,7 @@ typedef struct{
 }window;
 
 int main(){
-  window window = {640,360,"Bite", SKYBLUE};
+  window window = {640,360,"RougeLike love", SKYBLUE};
   InitWindow(window.width, window.height, window.title);
 
   while(!WindowShouldClose()){
